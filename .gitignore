@@ -1,0 +1,7 @@
+# Ignore Unity Logs 
+*.log 
+# Ignore Unity Folders 
+Library/ 
+Temp/ 
+Obj/ 
+Build/ 
