@@ -1,0 +1,16 @@
+{
+    "name": "UIFiles",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7f3f4abc85ce85e4fa8c341248176ae0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
